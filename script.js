@@ -103,10 +103,12 @@ function generatePassword(){
 function getUserInput(){
   do{
     complexity = window.prompt("Please specify password complexity:", "Low, Medium, High");
+    if (complexity === null) return;
   }while(!isValid(complexity));
 
   do{
     passLength = window.prompt("Please specify the number of characters:", "8-128");
+    if (passLength === null) return;
   }while(!(8 <= passLength && passLength <= 128));
   
   // Initializes array with length specified by user for password character population

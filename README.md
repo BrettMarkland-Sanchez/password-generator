@@ -1,6 +1,8 @@
 # bms-wk-3-hw
 GT Coding Boot Camp Week 3 HW Password Generator
 
+[Deployed Website](https://brettmarkland-sanchez.github.io/bms-wk-3-hw/)
+
 This repo uses Javascript written in [JavaScript](./script.js) to generate passwords for the user based on three levels of complexity.
 
 The given levels are categorized as "Low", "Medium", and "High" and use a combination of lowercase, uppercase, numbers, and special characters for generation.
