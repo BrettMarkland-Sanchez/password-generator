@@ -1,4 +1,4 @@
-#GT Coding Boot Camp Week 3 HW Password Generator
+# GT Coding Boot Camp Week 3 HW Password Generator
 
 [Deployed Website](https://brettmarkland-sanchez.github.io/bms-wk-3-hw/)
 
